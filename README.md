@@ -16,6 +16,7 @@ So, to protect myself (my mental health, my time etc), there are a few things I 
   - does a maintainer really, really, really have to manually type the command he/she sees a screenshot of, so it can be reproduced? Really? That's absolutely disrespectful and should be punishable under the law hahah
   - screenshots of text are unpredictable in UX/UI: please try to look at a screenshot of text on a mobile!
   - it's text. Copy/paste it. Everything's markdown, use it, it saves all of us time!
+- **corporate contributions**: I'm very happy with contributions done by employees of wealthy companies who use Valhalla to drive their products, revenue, sometimes R&D. However, I have much a somewhat higher bar there. I need to see that it's not half-cooked ideas being dumped in our issue tracker, for us to deal with the potential fall-out. I expect either a well-thought through description of the technical plan, well ahead of actual code writing/PR, or I expect such a company to hire those few available Valhalla experts who do have the authoratative expertise as maintainers. I want to be treated with the same respect as an internal team would be treated.
 
 I think often enough people are not thinking about the consequences of their actions on other people. Not out of bad intentions necessarily, just out of mindlessness (as in opposite of mindfulness).
 
